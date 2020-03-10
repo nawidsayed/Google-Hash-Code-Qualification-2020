@@ -5,9 +5,15 @@ Achieving 3rd / 4700 in the extended round with a total score of 27,211,780 . Cr
 Individual scores:
 
 A: 21
+
 B: 5822900
+
 C: 5690888
+
 D: 5109000
+
 E: 5240723
+
 F: 5348248
+
 
