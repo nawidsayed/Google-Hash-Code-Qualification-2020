@@ -1,6 +1,6 @@
 # Google-Hash-Code-Qualification-2020
 
-Achieving 3rd / 4700 in the extended round with a total score of 27,211,780 . Credits to @aweltsch for his many good ideas.
+Achieving 3rd / 4700 in the extended round with a total score of 27,211,780 . Credits to (Andre Weltsch)[https://github.com/aweltsch/] for his many good ideas.
 
 Individual scores:
 
