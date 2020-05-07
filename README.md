@@ -6,14 +6,14 @@ Individual scores:
 
 A: 21
 
-B: 5822900
+B: 5822900, using a greedy algorithm.
 
-C: 5690888
+C: 5690888, solving a Mixed Integer Linear Program.
 
-D: 5109000
+D: 5109000, soving a boolean satisfiability problem.
 
-E: 5240723
+E: 5240723, using simulated annealing.
 
-F: 5348248
+F: 5348248, solving a Mixed Integer Linear Program.
 
 
