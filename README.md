@@ -10,9 +10,9 @@ B: 5822900, using a greedy algorithm.
 
 C: 5690888, solving a Mixed Integer Linear Program.
 
-D: 5109000, soving a boolean satisfiability problem.
+D: 5109000, soving a Boolean Satisfiability problem.
 
-E: 5240723, using simulated annealing.
+E: 5240723, using Simulated Annealing.
 
 F: 5348248, solving a Mixed Integer Linear Program.
 
